@@ -3,3 +3,7 @@ Application designed to take in a set of ARAM champions and give a list of champ
 
 
 It would be awesome to have it take in a screenshot so that it can be even easier for people to get the results they need without having to type all the champion names
+
+
+
+################## THIS IS BEING DEPRECATED IN FAVOR OF CREATING AN ENTIRE SUITE OF THE TOOL ######################################
